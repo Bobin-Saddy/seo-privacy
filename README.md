@@ -54,12 +54,6 @@ We may use trusted third-party services for SEO analysis or image compression. T
 7. Changes to This Policy
 We may update this privacy policy as needed. Changes will be posted on this page with the revised date.
 
-8. Contact Us
-If you have questions or concerns about this Privacy Policy, contact us at:
-
-Email: support@yourdomain.com
-App Name: SEO-Pro
-Developer: Your Company Name
 Location: Your Address or City, Country
 
 © 2025 SEO-Pro. All rights reserved.
