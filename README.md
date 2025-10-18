@@ -1,5 +1,5 @@
 Privacy Policy for SeoMate Shopify App
-Effective Date: June 24, 2025
+Effective Date: October 15, 2025
 
 Thank you for using SeoMate, a Shopify app designed to help merchants enhance their store’s SEO performance and compress product images. Your privacy is important to us, and we are committed to protecting your personal information.
 
