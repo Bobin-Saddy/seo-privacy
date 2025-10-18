@@ -1,10 +1,10 @@
-Privacy Policy for SEO-Pro Shopify App
+Privacy Policy for SeoMate Shopify App
 Effective Date: June 24, 2025
 
-Thank you for using SEO-Pro, a Shopify app designed to help merchants enhance their store’s SEO performance and compress product images. Your privacy is important to us, and we are committed to protecting your personal information.
+Thank you for using SeoMate, a Shopify app designed to help merchants enhance their store’s SEO performance and compress product images. Your privacy is important to us, and we are committed to protecting your personal information.
 
 1. Information We Collect
-When you install and use the SEO-Pro app, we may collect the following data:
+When you install and use the Privacy Policy for SeoMate Shopify App app, we may collect the following data:
 
 Store name, store URL, and store owner email
 
